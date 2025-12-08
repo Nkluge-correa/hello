@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.png"
   name             : "Nicholas Kluge"
   pronouns         : # example: "she/her"  
   bio              : "I am a postdoctoral researcher at the University of Bonn working with AI and other cool things."
