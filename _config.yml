@@ -11,11 +11,13 @@ locale: "DE"
 site_theme: "default" # Currently available options are "default", "air"
 title: "Nicholas Kluge Corrêa"
 title_separator: "-"
-name: &name "Nicholas Kluge Corrêa"
-description: &description "Nicholas Kluge Corrêa's research portfolio" # Update this with a general description of your site, this is the default if not overridden by a page
+# removed YAML anchor to avoid parsing issues
+name: "Nicholas Kluge Corrêa"
+description: "Nicholas Kluge Corrêa's research portfolio"
 url: https://nkluge-correa.github.io
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "https://github.com/Nkluge-correa"
+# prefer short "owner/repo" format that themes/plugins expect
+repository: "Nkluge-correa/website-test"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -134,23 +136,17 @@ yandex_site_verification:
 
 # Social Sharing
 twitter:
-  username: &twitter
+  username: # left blank (no anchor)
 facebook:
   username:
   app_id:
   publisher:
 og_image: # Social media default site image
 og_description: # Social media default site image description
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type: # Person or Organization (defaults to Person)
-  name: # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
 
 # Analytics
 analytics:
-  provider: "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: false # use boolean false not the string "false"
   google:
     tracking_id:
 
