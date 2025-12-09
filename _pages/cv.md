@@ -63,7 +63,6 @@ Talks
   
 Awards
 ======
-* I have secured third-party support from funding bodies in Brazil and Germany, including DAAD, CNPq, FAPERGS, and TRA 6 Sustainable Futures. Most notably:
-  * 1st Place "[Marvin's 1 Year Most Interesting Results Competition](https://www.cst.uni-bonn.de/en/en_news/tucano-projekt-gewinnt-1-platz-in-der-most-interesting-results-competition)".
-  * Honorable Mention for the work performed in *"Dynamic Normativity: Necessary and Sufficient Conditions for Value Alignment"*, [Capes Doctoral Thesis Award 2025](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese/premio-capes-de-tese-documentos-relacionados).
+* 1st Place "[Marvin's 1 Year Most Interesting Results Competition](https://www.cst.uni-bonn.de/en/en_news/tucano-projekt-gewinnt-1-platz-in-der-most-interesting-results-competition)".
+* Honorable Mention for the work performed in *"Dynamic Normativity: Necessary and Sufficient Conditions for Value Alignment"*, [Capes Doctoral Thesis Award 2025](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese/premio-capes-de-tese-documentos-relacionados).
   
