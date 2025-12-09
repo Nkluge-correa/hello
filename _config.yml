@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "de-DE"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Nkluge-correa"
 title_separator          : "-"
@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "me.png"
   name             : "Nicholas Kluge Corrêa"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him"  
   bio              : "I am a postdoctoral researcher at the University of Bonn working with AI and other cool things."
   location         : "Bonn (NRW), Germany"
   employer         : "University of Bonn"
-  uri              : # URL
+  uri              : "https://nkluge-correa.github.io/"
   email            : "kluge@uni-bonn.de" 
 
   # Academic websites
