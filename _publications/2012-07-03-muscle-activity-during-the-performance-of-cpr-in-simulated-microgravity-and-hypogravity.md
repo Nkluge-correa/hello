@@ -6,7 +6,6 @@ permalink: /publication/2012-07-03-muscle-activity-during-the-performance-of-cpr
 excerpt: 'This study compared CPR performance in Earth gravity, hypogravity, and microgravity. While compression rates were consistent, reduced gravity increased heart rate, exertion, and muscle activation, especially in the rectus abdominis and pectoralis major. Findings highlight the need for strong physical conditioning to ensure effective CPR in extraterrestrial environments.'
 date: 2012-07-03
 venue: 'American Journal of Medical and Biological Research'
-slidesurl: ''
 paperurl: 'https://pubs.sciepub.com/ajmbr/3/4/1/index.html'
 citation: 'Baptista, R. R., SUSIN, T. B., Dias, M. K. P., Corrêa, N., Cardoso, R. B., & Russomano, T. (2015). Muscle activity during the performance of CPR in simulated microgravity and hypogravity. <i>American Journal of Medical and Biological Research</i>.'
 ---
