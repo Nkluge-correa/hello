@@ -1,7 +1,7 @@
 ---
 title: "Development of a skateboarding trick classifier using accelerometry and machine learning"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2017-10-01-development-of-a-skateboarding-trick-classifier-using-accelerometry-and-machine-learning
 excerpt: 'This study developed machine learning classifiers for skateboarding tricks using inertial measurement unit data. Artificial neural networks trained on modeled acceleration signals achieved error rates below 0.05%, demonstrating the potential for real-time, accurate trick detection in street skating.'
 date: 2017-10-01
