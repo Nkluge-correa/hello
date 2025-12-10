@@ -6,7 +6,6 @@ permalink: /publication/2012-10-15-the-evaluation-of-physiological-responses-dur
 excerpt: 'This study examined CPR performance under Earth gravity, hypogravity, and microgravity. While compression quality remained consistent, rescuers showed higher heart rates, exertion, and altered muscle activation in reduced gravity, indicating greater physical effort is required for effective CPR during space missions.'
 date: 2012-10-15
 venue: 'Resuscitation'
-slidesurl: ''
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0300957212005370'
 citation: 'Russomano, T., Baptista, R., Corrêa, N., & Dias, M. (2012). The evaluation of physiological responses during the performance of external chest compressions in simulated hypo and microgravity. <i>Resuscitation</i>, 83, e55.'
 ---
