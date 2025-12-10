@@ -1,7 +1,7 @@
 ---
 title: "Modelos Dinâmicos Aplicados à Aprendizagem de Valores em Inteligência Artificial"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2020-07-27-modelos-dinamicos-aplicados-a-aprendizagem-de-valores-em-inteligencia-artificial
 excerpt: 'This paper discusses the challenge of aligning artificial intelligence with human values. It highlights risks of uncritical development, critiques symbolic and connectionist approaches, and proposes dynamic, phenomenological models, such as situated embodied dynamics (SED), as a pathway for safer, value-sensitive AI.'
 date: 2020-07-27
