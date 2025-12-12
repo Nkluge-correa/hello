@@ -3,7 +3,7 @@ title: "Metanormativity: Solving questions of moral and empirical uncertainty"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-12-01-metanormativity-solving-questions-of-moral-and-empirical-uncertainty
-excerpt: 'This study explores metanormativity—norms about norms—as a framework for resolving moral uncertainty. Using vegetarian dilemmas, it applies William MacAskill's Maximization of Expected Choice-Worthiness, showing how ethical-mathematical models can aggregate conflicting moral theories and guide decision-making under uncertainty.'
+excerpt: "This study explores metanormativity (norms about norms) as a framework for resolving moral uncertainty. Using vegetarian dilemmas, it applies William MacAskill's Maximization of Expected Choice-Worthiness, showing how ethical-mathematical models can aggregate conflicting moral theories and guide decision-making under uncertainty."
 date: 2020-12-01
 venue: 'ethic@-An international Journal for Moral Philosophy'
 paperurl: 'https://doi.org/10.5007/1677-2954.2020v19n3p790'
