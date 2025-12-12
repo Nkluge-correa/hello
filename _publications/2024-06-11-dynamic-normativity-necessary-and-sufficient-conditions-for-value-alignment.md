@@ -16,13 +16,11 @@ The critical inquiry pervading the realm of Philosophy, and perhaps extending it
 **BibTeX**
 
 ```bibtex
-@phdthesis{handle:20.500.11811/11595,
-  urn: https://nbn-resolving.org/urn:nbn:de:hbz:5-76519,
-  author = {{Nicholas Kluge Corrêa}},
+@phdthesis{correa2024dynamicnormativity,
+  author = {Corr{\^e}a, Nicholas Kluge},
   title = {Dynamic Normativity: Necessary and Sufficient Conditions for Value Alignment},
   school = {{Rheinische Friedrich-Wilhelms-Universität Bonn} and {Pontifícia Universidade Católica do Rio Grande do Sul}},
   year = 2024,
-  month = jun,
   url = {https://hdl.handle.net/20.500.11811/11595}
 }
 ```
