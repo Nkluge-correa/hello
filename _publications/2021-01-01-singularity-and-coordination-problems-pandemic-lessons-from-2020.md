@@ -11,7 +11,7 @@ paperurl: 'https://jfsdigital.org/wp-content/uploads/2021/09/05-Nicholas-Kluge-C
 
 **Abstract** 
 
-Are there any indications that a Technological Singularity may be on the horizon? In trying to answer these questions, the authors provided a brief introduction to the field of safety research in artificial intelligence. The authors review some current paradigms in the development of autonomous intelligent systems, seeking evidence that may indicate the onset of a possible Technological Singularity. Finally, the authors present a reflection on the COVID-19 pandemic, showing that global society’s most significant problem in managing existential risks is its lack of coordination skills.
+Are there any indications that a Technological Singularity may be on the horizon? In answering these questions, the authors provided a brief introduction to the field of safety research in artificial intelligence. The authors review some current paradigms in the development of autonomous intelligent systems, seeking evidence that may indicate the onset of a possible Technological Singularity. Finally, the authors present a reflection on the COVID-19 pandemic, showing that global society's most significant problem in managing existential risks is its lack of coordination skills.
 
 **BibTeX**
 
