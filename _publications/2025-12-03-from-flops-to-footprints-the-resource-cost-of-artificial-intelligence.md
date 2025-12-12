@@ -2,7 +2,7 @@
 title: "From FLOPs to Footprints: The Resource Cost of Artificial Intelligence"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-12-03-from-flops-to-footprints-the-resource-cost-of-artificial-intelligence.md
+permalink: /publication/2025-12-03-from-flops-to-footprints-the-resource-cost-of-artificial-intelligence
 excerpt: 'This study quantifies the material footprint of AI training by linking computational workloads to the elemental composition of modern GPUs. By showing how model scale drives heavy‑metal extraction and hardware turnover, it demonstrates that AI progress carries substantial material costs and argues for integrating resource efficiency into future discussions of AI scalability.'
 date: 2025-12-03
 venue: 'ArXiV'
