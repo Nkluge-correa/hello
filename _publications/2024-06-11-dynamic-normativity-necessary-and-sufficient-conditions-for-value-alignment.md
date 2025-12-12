@@ -19,7 +19,7 @@ The critical inquiry pervading the realm of Philosophy, and perhaps extending it
 @phdthesis{correa2024dynamicnormativity,
   author={Corr{\^e}a, Nicholas Kluge},
   title={Dynamic Normativity: Necessary and Sufficient Conditions for Value Alignment},
-  school={{Rheinische Friedrich-Wilhelms-Universität Bonn} and {Pontif{\´i}cia Universidade Cat{\´o}lica do Rio Grande do Sul}},
+  school={Rheinische Friedrich-Wilhelms-Universit{\¨a}t Bonn and Pontif{\´i}cia Universidade Cat{\´o}lica do Rio Grande do Sul},
   year={2024},
   url={https://hdl.handle.net/20.500.11811/11595}
 }
