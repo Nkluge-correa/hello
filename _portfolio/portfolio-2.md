@@ -1,6 +1,6 @@
 ---
 title: "Teeny-Tiny Castle: Learning Resources for AI Ethics and Safety"
-excerpt: "TeenyTinyLlama is an open‑source initiative dedicated to developing compact yet capable foundational language models trained natively in Brazilian Portuguese.<br/><img src='https://raw.githubusercontent.com/Nkluge-correa/hello/refs/heads/master/images/teeny-tiny-castle-logo.png'>"
+excerpt: "Teeny-Tiny Castle is an open‑source repository that has several examples of how to work ethically and safely with AI.<br/><img src='https://raw.githubusercontent.com/Nkluge-correa/hello/refs/heads/master/images/teeny-tiny-castle-logo.png'>"
 collection: portfolio
 ---
 
